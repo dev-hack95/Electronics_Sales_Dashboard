@@ -35,7 +35,6 @@ Find key metrics and factors and show the meaningful relationships between attri
 ## Methods
 
 - Exploratory data analysis
-- Bivariant Analysis
 - Time Series Analysis
 
 ## Tech Stack
