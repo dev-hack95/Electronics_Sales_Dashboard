@@ -8,6 +8,10 @@
 
 - [@dev-hack95](https://www.github.com/dev-hack95)
 
+## Project Status
+
+- In progress
+
 ## Table of Contents
 
   - [Problem Statement](#Problem-Statement)
@@ -36,7 +40,6 @@ Find key metrics and factors and show the meaningful relationships between attri
 
 ## Tech Stack
 
-- Python (refer to requirement.txt for the packages used in this project)
 - Tableau
 - PowerBI
 - EDA
