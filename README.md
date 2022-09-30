@@ -43,4 +43,4 @@ Find key metrics and factors and show the meaningful relationships between attri
 
 ## Tableau
 
-[LINK:](https://public.tableau.com/app/profile/saiprasad.toshatwad8340/viz/Electronics-Sales-Dashboard_16554934644770/Dashboard1)
+- Tableau [Dashboard](https://public.tableau.com/app/profile/saiprasad.toshatwad8340/viz/Electronics-Sales-Dashboard_16554934644770/Dashboard1) link
