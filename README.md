@@ -15,8 +15,8 @@
   - [Tech Stack](#tech-stack)
   - [Quick glance at the results](#quick-glance-at-the-results)
   - [Repository structure](#repository-structure)
-  - Tableau(#Tableau)
-  - PowerBI(#PowerBI)
+  - [Tableau](#Tableau)
+  - [PowerBI](#PowerBI)
 
 ## Problem Statement
 
@@ -43,4 +43,4 @@ Find key metrics and factors and show the meaningful relationships between attri
 
 ## Tableau
 
-[LINK]: https://public.tableau.com/app/profile/saiprasad.toshatwad8340/viz/Electronics-Sales-Dashboard_16554934644770/Dashboard1
+[LINK:](https://public.tableau.com/app/profile/saiprasad.toshatwad8340/viz/Electronics-Sales-Dashboard_16554934644770/Dashboard1)
