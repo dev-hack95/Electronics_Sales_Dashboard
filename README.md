@@ -1,4 +1,4 @@
-# Electronics_Sales_Dashboard
+# Electronics_Sales_Dashboard.
 
 ![Python Version](https://img.shields.io/badge/Python-3.8.10-lightgrey)
 ![Tableau](https://img.shields.io/badge/Tableau-BI-lightblue)
